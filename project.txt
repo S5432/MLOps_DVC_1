@@ -23,3 +23,6 @@
 16. git chckout <sha id> // to rollback the previous code version
 17. dvc status
 18 dvc pull // rollback to previous data version corresponding to code version.
+
+19 again back to last phase >> git checkout main
+20. >> dvc pull
